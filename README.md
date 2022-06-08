@@ -29,7 +29,7 @@ $ python3 main.py
 ```
 >nimage #playerTag
 ```
-(you can change the prefix) [here]()
+(you can change the prefix) [here](https://github.com/GirlsFromPanema/nimage/blob/e24205c10ea624bcfacc02e4c7818d93bc973d0d/main.py#L207)
 
 🎉🎉🎉 Congrats! 🎉🎉🎉
 
