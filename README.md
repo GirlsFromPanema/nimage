@@ -12,9 +12,9 @@ A Clash of Clans Tool to display a screenshot <mark>within</mark> a players vill
 - Register an APi key [at Clash of Clans Dev Portal](https://developer.clashofclans.com/#/getting-started)
 
 ### Up and running
-- Put your bot token [here]()
-- Put your APi key [here]()
-
+- Put your bot token [here](https://github.com/GirlsFromPanema/nimage/blob/e24205c10ea624bcfacc02e4c7818d93bc973d0d/main.py#L206)
+- Put your APi key [here](https://github.com/GirlsFromPanema/nimage/blob/e24205c10ea624bcfacc02e4c7818d93bc973d0d/main.py#L205)
+- Change the prefix (optional) [here](https://github.com/GirlsFromPanema/nimage/blob/e24205c10ea624bcfacc02e4c7818d93bc973d0d/main.py#L207)
 ### Install dependencies 
 ```
 $ pip install -r requirements.txt
