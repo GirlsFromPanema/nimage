@@ -1,5 +1,5 @@
 # Nimage
-A Clash of Clans Tool to display a screenshot <mark>within</mark> a players village.
+A Clash of Clans Tool that displays a livescreenshot from a players village.
 
 > ## 🤷‍♂️ Why?
 - Directly view a players profile in your Server (instead of looking up inGame).
